@@ -1,1 +1,13 @@
-
+batch_id,start_date,end_date,initial_stock,breed_type,primary_feed,status
+BATCH-2026-001,2026-01-15,2026-02-26,3619,Cobb 500,Starter Crumbles,Completed
+BATCH-2026-002,2026-02-04,2026-03-18,4037,Ross 308,Starter Crumbles,Completed
+BATCH-2026-003,2026-02-24,2026-04-07,1914,Cobb 500,Finisher Pellets,Completed
+BATCH-2026-004,2026-03-16,2026-04-27,1419,Hubbard Classic,Finisher Pellets,Completed
+BATCH-2026-005,2026-04-05,2026-05-17,4654,Hubbard Classic,Starter Crumbles,Completed
+BATCH-2026-006,2026-04-25,2026-06-06,3418,Ross 308,Starter Crumbles,Completed
+BATCH-2026-007,2026-05-15,2026-06-26,1122,Cobb 500,Starter Crumbles,Completed
+BATCH-2026-008,2026-06-04,2026-07-16,1952,Hubbard Classic,Finisher Pellets,Completed
+BATCH-2026-009,2026-06-24,2026-08-05,1108,Hubbard Classic,Starter Crumbles,Completed
+BATCH-2026-010,2026-07-14,2026-08-25,3932,Hubbard Classic,Finisher Pellets,Active
+BATCH-2026-011,2026-08-03,2026-09-14,3232,Ross 308,Starter Crumbles,Active
+BATCH-2026-012,2026-08-23,2026-10-04,2839,Hubbard Classic,Grower Pellets,Active

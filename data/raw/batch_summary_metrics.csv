@@ -1,0 +1,13 @@
+batch_id,total_mortality,total_feed_consumed_kg,final_weight_kg,start_date,end_date,initial_stock,breed_type,primary_feed,status,mortality_rate_pct,fcr
+BATCH-2026-001,31,13840.15,9050.87,2026-01-15,2026-02-26,3619,Cobb 500,Starter Crumbles,Completed,0.86,1.53
+BATCH-2026-002,35,15700.54,9168.29,2026-02-04,2026-03-18,4037,Ross 308,Starter Crumbles,Completed,0.87,1.71
+BATCH-2026-003,33,7329.03,4625.76,2026-02-24,2026-04-07,1914,Cobb 500,Finisher Pellets,Completed,1.72,1.58
+BATCH-2026-004,59,5807.98,2973.59,2026-03-16,2026-04-27,1419,Hubbard Classic,Finisher Pellets,Completed,4.16,1.95
+BATCH-2026-005,27,19210.06,9605.99,2026-04-05,2026-05-17,4654,Hubbard Classic,Starter Crumbles,Completed,0.58,2.0
+BATCH-2026-006,41,14307.19,7520.28,2026-04-25,2026-06-06,3418,Ross 308,Starter Crumbles,Completed,1.2,1.9
+BATCH-2026-007,37,4554.03,2637.78,2026-05-15,2026-06-26,1122,Cobb 500,Starter Crumbles,Completed,3.3,1.73
+BATCH-2026-008,36,7897.44,3925.12,2026-06-04,2026-07-16,1952,Hubbard Classic,Finisher Pellets,Completed,1.84,2.01
+BATCH-2026-009,32,4370.3,2260.8,2026-06-24,2026-08-05,1108,Hubbard Classic,Starter Crumbles,Completed,2.89,1.93
+BATCH-2026-010,25,15435.25,8306.55,2026-07-14,2026-08-25,3932,Hubbard Classic,Finisher Pellets,Active,0.64,1.86
+BATCH-2026-011,32,13467.98,7332.19,2026-08-03,2026-09-14,3232,Ross 308,Starter Crumbles,Active,0.99,1.84
+BATCH-2026-012,27,11820.17,5679.1,2026-08-23,2026-10-04,2839,Hubbard Classic,Grower Pellets,Active,0.95,2.08
