@@ -1,0 +1,36 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Python / Jupyter (from scripts/generate_data.ipynb)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Excel lock files
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# Power BI temp/lock/cache files
+~$*.pbix
+*.pbix.bak
+*.pbit.bak
+
+# Credentials / secrets — never commit DB connection details
+.env
+*.env
+config.json
+credentials.json
+db_config.py
+*.pem
+*.key
+
+# Logs
+*.log
